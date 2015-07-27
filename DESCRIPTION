@@ -1,0 +1,13 @@
+Package: logR
+Title: Flexible logging of R console sessions
+Version: 0.1
+Author@R: Jason Thorpe <jdthorpe@gmail.com>
+Description: Flexible logging of R console sessions based on the 
+        txtStart/Stop funcitons in the TeachingDemos package.
+Maintainer: Jason Thorpe <jdthorpe@gmail.com>
+License: Artistic-2.0
+Date: 2015-07-26
+Suggests: TeachingDemos
+LazyData: true
+KeepSource: true
+Depends: R (>= 2.10)
