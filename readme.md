@@ -38,10 +38,10 @@ package.
     * Alternatively, download the github repository to a zip file and use:
 
         ```R
-        install.packages("LifeTable.zip", repos = NULL)
+        install.packages("logR.zip", repos = NULL)
 
         # Remove the package after installation
-        unlink("LifeTable.zip")
+        unlink("logR.zip")
         ```
 
 3. Use logR to log your R sessions by adding this to your 
